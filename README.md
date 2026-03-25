@@ -33,9 +33,6 @@ Ferns N Petals (FNP) wants to understand customer purchasing behavior, revenue t
 - Run promotions during peak hours (12 PM – 2 PM)
 - Improve delivery logistics to reduce turnaround time
 
-##  Dashboard Preview
-![Dashboard](Images/dashboard_preview.png)
-
 ##  Future Improvements
 - Integrate SQL for large-scale data handling
 - Build Power BI dashboard for better visualization
